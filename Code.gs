@@ -1,0 +1,7 @@
+// ** GitScript **
+// GitScript.Repo: creepy-octo-squeegee
+// ** GitScript **
+function testRig() {
+  var repo_RegExp = /[a-zA-Z0-9]*/;
+  Logger.log(repo_RegExp);
+}
