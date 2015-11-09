@@ -14,3 +14,9 @@ function helloWorld2() {
 function helloWorld3() {
   Logger.log("Hello World 3");
 }
+function helloWorld4() {
+  Logger.log("Hello World 4");
+}
+function helloWorld5() {
+  Logger.log("Hello World 5");
+}
