@@ -8,3 +8,6 @@ function testRig() {
 function helloWorld() {
   Logger.log("Hello World");
 }
+function helloWorld2() {
+  Logger.log("Hello World 2");
+}
