@@ -16,5 +16,5 @@ published: true
 
 5. You will need to do this for each non-contiguous group of blank cells. If you want to be able to quickly auto-fill non-contiguous groups of blank cells, then yes, a script would be required.
 
-![image alt text]({{ site.url }}/public/niJBpfeU8FhxoNFxq3K5DQ_img_0.png)
+![image alt text]({{ site.url }}/assets/posts/niJBpfeU8FhxoNFxq3K5DQ_img_0.png)
 
