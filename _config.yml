@@ -1,1 +1,4 @@
-post_assets:			assets/posts
+post_assets: assets/posts
+newKey: test posting
+newKey1: true
+newKey2: 1
